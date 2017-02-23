@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "QPs3L3mjPoi+a9GJCjW8HhyJczM=",
+			"path": "github.com/codahale/chacha20",
+			"revision": "ec07b4f69a3f70b1dd2a8ad77230deb1ba5d6953",
+			"revisionTime": "2015-11-07T02:50:05Z"
+		},
+		{
+			"checksumSHA1": "Jh3yCl3+GiUKEAw73smr21esdWI=",
+			"path": "github.com/pzduniak/argon2",
+			"revision": "8cea0f78645de325eba7e52b7d6076fbbe748b01",
+			"revisionTime": "2016-12-23T23:02:31Z"
+		}
+	],
+	"rootPath": "github.com/ExtendedStack/gosodium"
+}
